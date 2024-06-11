@@ -1,0 +1,22 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+
+body{
+    /* display: flex; */
+    background-image: url(./divisibleBackground.jpg);
+    background-repeat: no-repeat;
+    image-rendering: optimizeQuality;
+    background-size: cover;   
+    background-color: gray;
+    text-align: center;
+    margin-top: 280px;
+    margin-right: 80px;
+    color: white;
+
+
+
+}
